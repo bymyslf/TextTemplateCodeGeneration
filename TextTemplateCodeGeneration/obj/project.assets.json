@@ -669,12 +669,15 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisbarbosa\\source\\repos\\TextTemplateCodeGeneration\\TextTemplateCodeGeneration\\TextTemplateCodeGeneration.csproj",
+      "projectUniqueName": "D:\\GitProjects\\TextTemplateCodeGeneration\\TextTemplateCodeGeneration\\TextTemplateCodeGeneration.csproj",
       "projectName": "TextTemplateCodeGeneration",
-      "projectPath": "C:\\Users\\luisbarbosa\\source\\repos\\TextTemplateCodeGeneration\\TextTemplateCodeGeneration\\TextTemplateCodeGeneration.csproj",
+      "projectPath": "D:\\GitProjects\\TextTemplateCodeGeneration\\TextTemplateCodeGeneration\\TextTemplateCodeGeneration.csproj",
       "packagesPath": "C:\\Users\\luisbarbosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisbarbosa\\source\\repos\\TextTemplateCodeGeneration\\TextTemplateCodeGeneration\\obj\\",
+      "outputPath": "D:\\GitProjects\\TextTemplateCodeGeneration\\TextTemplateCodeGeneration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
