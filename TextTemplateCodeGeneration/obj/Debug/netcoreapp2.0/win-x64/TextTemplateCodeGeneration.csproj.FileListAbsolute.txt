@@ -1,0 +1,13 @@
+C:\Users\luisbarbosa\source\repos\TextTemplateCodeGeneration\TextTemplateCodeGeneration\bin\Debug\netcoreapp2.0\win-x64\hostpolicy.dll
+C:\Users\luisbarbosa\source\repos\TextTemplateCodeGeneration\TextTemplateCodeGeneration\bin\Debug\netcoreapp2.0\win-x64\hostfxr.dll
+C:\Users\luisbarbosa\source\repos\TextTemplateCodeGeneration\TextTemplateCodeGeneration\bin\Debug\netcoreapp2.0\win-x64\TextTemplateCodeGeneration.exe
+C:\Users\luisbarbosa\source\repos\TextTemplateCodeGeneration\TextTemplateCodeGeneration\bin\Debug\netcoreapp2.0\win-x64\TextTemplateCodeGeneration.deps.json
+C:\Users\luisbarbosa\source\repos\TextTemplateCodeGeneration\TextTemplateCodeGeneration\bin\Debug\netcoreapp2.0\win-x64\TextTemplateCodeGeneration.runtimeconfig.json
+C:\Users\luisbarbosa\source\repos\TextTemplateCodeGeneration\TextTemplateCodeGeneration\bin\Debug\netcoreapp2.0\win-x64\TextTemplateCodeGeneration.runtimeconfig.dev.json
+C:\Users\luisbarbosa\source\repos\TextTemplateCodeGeneration\TextTemplateCodeGeneration\bin\Debug\netcoreapp2.0\win-x64\TextTemplateCodeGeneration.dll
+C:\Users\luisbarbosa\source\repos\TextTemplateCodeGeneration\TextTemplateCodeGeneration\bin\Debug\netcoreapp2.0\win-x64\TextTemplateCodeGeneration.pdb
+C:\Users\luisbarbosa\source\repos\TextTemplateCodeGeneration\TextTemplateCodeGeneration\obj\Debug\netcoreapp2.0\win-x64\TextTemplateCodeGeneration.csproj.CoreCompileInputs.cache
+C:\Users\luisbarbosa\source\repos\TextTemplateCodeGeneration\TextTemplateCodeGeneration\obj\Debug\netcoreapp2.0\win-x64\TextTemplateCodeGeneration.AssemblyInfoInputs.cache
+C:\Users\luisbarbosa\source\repos\TextTemplateCodeGeneration\TextTemplateCodeGeneration\obj\Debug\netcoreapp2.0\win-x64\TextTemplateCodeGeneration.AssemblyInfo.cs
+C:\Users\luisbarbosa\source\repos\TextTemplateCodeGeneration\TextTemplateCodeGeneration\obj\Debug\netcoreapp2.0\win-x64\TextTemplateCodeGeneration.dll
+C:\Users\luisbarbosa\source\repos\TextTemplateCodeGeneration\TextTemplateCodeGeneration\obj\Debug\netcoreapp2.0\win-x64\TextTemplateCodeGeneration.pdb
